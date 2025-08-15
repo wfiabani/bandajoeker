@@ -67,7 +67,7 @@ footer {
   color: #888;
 }
 
-/* Membros da banda */
+/* Membros da banda 
 .membros {
   margin: 30px 0;
   padding: 0 10px;
@@ -132,6 +132,7 @@ footer {
   border-image-source: linear-gradient(45deg, #ff4c4c, #ffb347);
   border-style: solid;
 }
+  */
 
 /* Fade-in */
 @keyframes fadeIn {
