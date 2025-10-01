@@ -225,3 +225,7 @@ footer {
   width: 100%;
   height: auto;
 }
+
+section.video{
+  margin: 0 -15px;
+}
