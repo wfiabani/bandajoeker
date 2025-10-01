@@ -25,10 +25,14 @@ header {
 }
 
 .logo-top {
-  width: 250px;
-  max-width: 80%;
-  display: block;
-  margin: 0 auto;
+    width: 100px;
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: -111px;
+    margin-top: 30px;
+    position: relative;
+    z-index: 100;
 }
 
 main {
@@ -199,3 +203,25 @@ footer {
 
 
 
+.image-container {
+  width: auto;
+  /* overflow: hidden; */
+  margin: 0 -15px;
+}
+
+.image-container2 {
+  width: auto;
+  margin: 0 -15px;
+}
+
+.image-container img{
+  width: 100%;
+  height: auto;
+  filter: grayscale(100%);
+  opacity: 0.6;
+}
+
+.image-container2 img {
+  width: 100%;
+  height: auto;
+}
